@@ -26,7 +26,7 @@
 
 ### :woman_technologist: About Me :
 
-<div>
+<div align="center">
   
   <ul>
     <li>Hello there</li>
