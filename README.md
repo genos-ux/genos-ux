@@ -3,13 +3,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-      <a href='https://www.linkedin.com/mynetwork'/>
+      <a href='www.linkedin.com/in/gabriel-kyeremateng'/>
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="your-youtube-URL">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
       </a>
-      <a href="your-twitter-URL">
+      <a href="https://twitter.com/KyeremantengG">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
 </div>
@@ -24,7 +24,7 @@
 
 ---
 
-#:woman_technologist: About Me 
+## :woman_technologist: About Me 
 
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana,Accra.
@@ -61,6 +61,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=genos-ux&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genos-ux)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
